@@ -2,7 +2,7 @@ $("document").ready(function(){
     $('#fullpage').fullpage({
         fixedElements:'#head',
         resize:'true',
-        navigation:'true',
+        
         loopHorizontal:'true',
         slidesNavigation:'true',
         navigationPosition:'right',
