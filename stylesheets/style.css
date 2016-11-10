@@ -292,7 +292,7 @@ a{text-decoration: none;}
 }
 
 .section5{
-    background:url(image/section4.jpg) no-repeat;
+    background:url(../image/section4.jpg) no-repeat;
 }
 .section5 h1{
     text-align: center;
@@ -325,7 +325,7 @@ a{text-decoration: none;}
     -webkit-transition:1s;
 }
 .section6{
-    background:url(image/section8.jpg) no-repeat;
+    background:url(../image/section8.jpg) no-repeat;
 }
 .sec6-p{
     width:800px;
