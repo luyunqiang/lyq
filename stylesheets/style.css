@@ -573,6 +573,166 @@ a{text-decoration: none;}
 
 
 }
+
+
+@media screen and (min-width:768px) and (max-width: 1200px){
+    .section1 h1{
+        text-align: center;
+        position: relative;
+        margin-bottom: 50px;
+        font-size: 18px;
+    }
+
+   #head{
+    padding:0;
+   }
+
+   .head-left img {
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    margin: 5px;
+    }
+    
+    #head-tit{
+        line-height: 15px;
+    }
+
+    .head-right li {
+        border:none;
+        padding:0;
+        margin-right: 5px;
+    }
+
+    .head-view{
+        display: none;
+    }
+
+    .head-right li a{
+        font-size: 12px;
+    }
+
+    .sec2Bor{
+        width: 80%;
+        height: 28%;
+        position: absolute;
+        left: 10%;
+        top:200%;
+    }
+
+    .section2 h1{
+        font-size: 20px;
+    }
+
+    .sectionText p {
+        padding:5px;
+    }
+
+    .sectionText{
+        padding:20px 0;
+        text-indent: 45%;
+        font-size: 12px;
+    }
+
+    .sectionText img {
+        width: 36%;
+        height: 80%;
+    }
+
+    #sec3Nav {
+        position: relative;
+        top: -15%;
+        left: -25%;
+    }
+
+    .sec3Wrap {
+        width: 79%;
+        height: 39%;
+        right: -36%;
+        top: 57%;
+        font-size: 16px;
+        padding: 0;
+        line-height: 200%;
+    }
+
+    #sec3Nav li{
+        padding:0;
+    }
+
+    .section4 span {
+    width: 19%;
+    height: 250px;
+    }
+
+    .sec4-pic{
+        left:0;
+    }
+    .h-tit, .c-tit,.aj-tit{
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+
+    .j-tit{
+        font-size: 15px;
+        margin-top: -20px
+    }
+
+    .aj-tit{
+        margin-top: -20px;
+    }
+
+    .sec4-list li {
+    margin: 0;
+    font-size: 12px;
+    line-height: 15px;
+    transform: scale(.9);
+    }
+
+    #pic-aj .sec4-list,#pic-j .sec4-list{
+        margin-top: 30px;
+    }
+
+    #pic-h .sec4-list,#pic-c .sec4-list{
+        margin-top: 10px;
+    }
+
+    .section5 h1{
+        top: 10%;
+    }
+
+    .slide{
+        width: 100%;
+    }
+
+    .slide-text {
+    margin-right: 5%;
+    line-height: 15px;
+    width: 45%;
+    height: 60%;
+    font-size: 12px;
+    font-family: "微软雅黑";
+    }
+
+    .slide img {
+    width: 20%;
+    height: 20%;
+    }
+
+    .sec6-p {
+    width: 80%;
+    height: 30%;
+    }
+
+    .sec6-p img{
+        display: none;
+    }
+
+    .section6 ul {
+        font-size: 12px;
+    }
+
+
+}
 /*
 @media screen and (min-width:1501px) and (max-width: 2000px){
     html {
