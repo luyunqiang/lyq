@@ -510,6 +510,7 @@ a{text-decoration: none;}
     .section4 span {
     width: 18%;
     height: 260px;
+    border: 2px solid #fff;
     }
 
     .sec4-pic{
