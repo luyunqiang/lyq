@@ -6,7 +6,7 @@ $("document").ready(function(){
         loopHorizontal:'true',
         slidesNavigation:'true',
         navigationPosition:'right',
-        navigationTooltips:['首页','关于我','工作经验','专业技能','我的作品','联系我'],
+        navigationTooltips:['首页','关于我','介绍自己','专业技能','我的作品','联系我'],
         css3:'ture',
         anchors:['page1','page2','page3','page4','page5','page6'],
         afterLoad:function(link,index){
